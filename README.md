@@ -10,3 +10,8 @@ Application Security
 * [Cryptographic Algorithms](https://drive.google.com/file/d/1KC3wXISKSt8cjouyYzXqg5LeilVjbNrH/view?usp=sharing)
 
 * [Cryptographic](https://drive.google.com/file/d/1VGQY3HxGcpg_HXYl_c8xgby6DgKwagvj/view?usp=sharing)
+  
+* [IOS PT](https://drive.google.com/file/d/1k0xAMlQ3siauKmaPQPs9xvswA34nqH21/view?usp=sharing)
+  
+* [Android Application Penetration Testing Checklist](https://drive.google.com/file/d/1vglF3j3UX3wMk4Ru_meOtcrpvQ6QZpNd/view?usp=sharing)
+  
